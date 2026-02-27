@@ -1,0 +1,5 @@
+{
+  "name": "DrawParty",
+  "description": "A real-time multiplayer drawing and guessing game.",
+  "requestFramePermissions": []
+}
